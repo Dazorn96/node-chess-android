@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GENERAL -->
+    <string name="app_name">Online Chess</string>
+    <string name="server_client_id">11395280943-ncbcj2023hr8jpdqv6okpaq55dr134t5.apps.googleusercontent.com</string>
+    <string name="app_restart_dialog_title">Errore</string>
+    <string name="app_restart_dialog_text">Rilevato un problema di rete, necessario riavvio dell\'applicazione</string>
+    <string name="app_restart_dialog_button">Riavvia</string>
+
+    <!-- PROFILE -->
+    <string name="profile_title">Profilo</string>
+    <string name="profile_username_label">Username</string>
+    <string name="profile_tag_label">Tag</string>
+    <string name="profile_lastrecord_label">Ultimo record</string>
+    <string name="profile_gamesplayed_label">Partite</string>
+    <string name="profile_gameswon_label">Vittorie</string>
+    <string name="profile_gameslost_label">Sconfitte</string>
+
+    <!-- RANKINGS -->
+    <string name="rankings_title">Classifica</string>
+
+    <!-- MAIN -->
+    <string name="main_title">Gioca</string>
+    <string name="main_gamefound_text">Partita trovata! Caricamento scacchiera, attendi...</string>
+    <string name="main_askgame_text">Chiedi amichevole</string>
+    <string name="main_searchgame_text">Cerca partita</string>
+    <string name="main_searchgameabort_text">Annulla</string>
+    <string name="main_askgame_hint">Tag utente</string>
+    <string name="main_askgame_error">L\'utente ha rifiutato la tua sfida</string>
+
+    <!-- CHAT -->
+    <string name="chat_title">Chat</string>
+    <string name="chat_edittext_hint">Scrivi qualcosa...</string>
+    <string name="chat_message_owning_title">Tu</string>
+    <string name="chat_tag_copied">Tag utente copiato sulla clipboard</string>
+
+    <!-- SETTINGS -->
+    <string name="settings_title">Impostazioni</string>
+    <string name="settings_language_label">Linguaggio</string>
+    <string name="settings_language_value">Italiano</string>
+
+    <!-- GAME -->
+    <string name="game_user_username">Tu</string>
+    <string name="game_next_turn">Tocca a te</string>
+    <string name="game_end">Partita finita</string>
+    <string name="game_lost">Hai perso</string>
+    <string name="game_won">Hai vinto</string>
+    <string name="game_draw">Pareggio</string>
+</resources>

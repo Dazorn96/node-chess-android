@@ -1,3 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">node-chess-android</string>
+    <!-- GENERAL -->
+    <string name="app_name">Online Chess</string>
+    <string name="server_client_id">11395280943-ncbcj2023hr8jpdqv6okpaq55dr134t5.apps.googleusercontent.com</string>
+    <string name="app_restart_dialog_title">Error</string>
+    <string name="app_restart_dialog_text">Network problem detected, application restart required</string>
+    <string name="app_restart_dialog_button">Restart</string>
+
+    <!-- PROFILE -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_username_label">Username</string>
+    <string name="profile_tag_label">Tag</string>
+    <string name="profile_lastrecord_label">Last record</string>
+    <string name="profile_gamesplayed_label">Games</string>
+    <string name="profile_gameswon_label">Wins</string>
+    <string name="profile_gameslost_label">Lost</string>
+
+    <!-- RANKINGS -->
+    <string name="rankings_title">Rankings</string>
+
+    <!-- MAIN -->
+    <string name="main_title">Play</string>
+    <string name="main_gamefound_text">Game found! Loading board, please wait...</string>
+    <string name="main_askgame_text">Ask for friendly game</string>
+    <string name="main_searchgame_text">Search game</string>
+    <string name="main_searchgameabort_text">Abort</string>
+    <string name="main_askgame_hint">User tag</string>
+    <string name="main_askgame_error">User refused your challenge</string>
+
+    <!-- CHAT -->
+    <string name="chat_title">Chat</string>
+    <string name="chat_edittext_hint">Say something...</string>
+    <string name="chat_message_owning_title">You</string>
+    <string name="chat_tag_copied">User tag copied on clipboard</string>
+
+    <!-- SETTINGS -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language_label">Language</string>
+    <string name="settings_language_value">English</string>
+
+    <!-- GAME -->
+    <string name="game_user_username">You</string>
+    <string name="game_next_turn">It\'s your turn</string>
+    <string name="game_end">Match end</string>
+    <string name="game_lost">You lost</string>
+    <string name="game_won">You won</string>
+    <string name="game_draw">Draw</string>
 </resources>
