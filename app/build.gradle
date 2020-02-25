@@ -31,6 +31,7 @@ dependencies {
     implementation 'com.loopj.android:android-async-http:1.4.9'
     implementation 'androidx.viewpager2:viewpager2:1.0.0'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.android.gms:play-services-games:19.0.0'
     implementation('io.socket:socket.io-client:0.8.3') {
         exclude group: 'org.json', module: 'json'
     }

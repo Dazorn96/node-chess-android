@@ -4,18 +4,9 @@ import android.content.Context;
 
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
-import com.loopj.android.http.JsonHttpResponseHandler;
-import com.loopj.android.http.RequestParams;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.UnsupportedEncodingException;
-
-import cz.msebera.android.httpclient.entity.StringEntity;
 
 public class APIHelper {
-    private static final String _endpoint = "https://fcf11980.ngrok.io";//"https://node-chess-online.herokuapp.com";
+    private static final String _endpoint = "https://node-chess-online.herokuapp.com";//"https://ffcdf165.ngrok.io"
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 

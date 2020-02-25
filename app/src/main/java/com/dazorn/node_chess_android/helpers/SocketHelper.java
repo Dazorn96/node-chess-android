@@ -35,7 +35,7 @@ import io.socket.emitter.Emitter;
 public class SocketHelper {
     private static SocketHelper _instance;
 
-    private final String _endpoint = "https://fcf11980.ngrok.io";//"https://node-chess-online.herokuapp.com";
+    private final String _endpoint = "https://node-chess-online.herokuapp.com";//"https://ffcdf165.ngrok.io"
     private Socket _socket;
     private static Activity _activity;
     private Game _game;
